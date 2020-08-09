@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dormitory-repair-father/dormitory-repair-consumer/dormitory-repair-consumer.iml" filepath="$PROJECT_DIR$/dormitory-repair-father/dormitory-repair-consumer/dormitory-repair-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dormitory-repair-father/dormitory-repair-father.iml" filepath="$PROJECT_DIR$/dormitory-repair-father/dormitory-repair-father.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dormitory-repair-father/dormitory-repair-interface/dormitory-repair-interface.iml" filepath="$PROJECT_DIR$/dormitory-repair-father/dormitory-repair-interface/dormitory-repair-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dormitory-repair-father/dormitory-repair-provider/dormitory-repair-provider.iml" filepath="$PROJECT_DIR$/dormitory-repair-father/dormitory-repair-provider/dormitory-repair-provider.iml" />
+    </modules>
+  </component>
+</project>
